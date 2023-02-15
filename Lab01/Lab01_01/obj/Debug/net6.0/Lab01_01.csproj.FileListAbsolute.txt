@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\bin\Debug\net6.0\Lab01_01.exe
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\bin\Debug\net6.0\Lab01_01.deps.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\bin\Debug\net6.0\Lab01_01.runtimeconfig.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\bin\Debug\net6.0\Lab01_01.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\bin\Debug\net6.0\Lab01_01.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\refint\Lab01_01.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\Lab01_01.genruntimeconfig.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab01\Lab01_01\obj\Debug\net6.0\ref\Lab01_01.dll
