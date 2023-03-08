@@ -82,7 +82,7 @@ namespace ConsoleApp1
                     myObj.Prod = 1;
                     myObj.Selling = 2500000000;
                     myObj.Marketpart = 31.01;
-                    Console.WriteLine("Фiрма " + myObj.Name +"|" + " Кiлькiсть продуктiв " + myObj.Prod + "|" + " Рiчний об'єм продажу " + myObj.Selling + "|" + " Частина ринку " + myObj.Marketpart);
+                    Console.WriteLine("Фiрма " + myObj.Name + "|" + " Кiлькiсть продуктiв " + myObj.Prod + "|" + " Рiчний об'єм продажу " + myObj.Selling + "|" + " Частина ринку " + myObj.Marketpart);
                 }
                 else if (i == 1)
                 {
