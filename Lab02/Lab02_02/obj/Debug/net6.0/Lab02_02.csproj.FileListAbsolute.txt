@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab02\Lab02_02\obj\Debug\net6.0\Lab02_02.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab02\Lab02_02\obj\Debug\net6.0\Lab02_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab02\Lab02_02\obj\Debug\net6.0\Lab02_02.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab02\Lab02_02\obj\Debug\net6.0\Lab02_02.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab02\Lab02_02\obj\Debug\net6.0\Lab02_02.csproj.CoreCompileInputs.cache
