@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02_02\\Lab02_02.csproj": {}
+    "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02-02\\Lab02-02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02_02\\Lab02_02.csproj": {
+    "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02-02\\Lab02-02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02_02\\Lab02_02.csproj",
-        "projectName": "Lab02_02",
-        "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02_02\\Lab02_02.csproj",
+        "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02-02\\Lab02-02.csproj",
+        "projectName": "Lab02-02",
+        "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02-02\\Lab02-02.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02_02\\obj\\",
+        "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab02\\Lab02-02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
