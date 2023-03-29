@@ -117,7 +117,7 @@ class Company
         Console.WriteLine("Total number of objects: {0}", Company.ObjectCount);
         Console.WriteLine();
 
-        // Finding companies with market share above 30%
+        // Знайти компанії з часткою ринку понад 30%
         Console.WriteLine("Companies with market share above 30%:");
         Company[] highMarketShareCompanies = Company.FindByMarketShare(30m);
         foreach (Company company in highMarketShareCompanies)
@@ -126,13 +126,13 @@ class Company
         }
         Console.WriteLine();
 
-        // Finding the company with the minimum number of products
+        // Пошук компанії з мінімальною кількістю товарів
         Console.WriteLine("Company with the minimum number of products:");
         Company minProductCountCompany = Company.FindByMinProductCount();
         Console.WriteLine(minProductCountCompany.Name);
         Console.WriteLine();
 
-        // Checking the number of objects
+        // Перевірка кількості товарів
         Company.CheckObjectCount(15, 10);
 
         Console.ReadLine();
