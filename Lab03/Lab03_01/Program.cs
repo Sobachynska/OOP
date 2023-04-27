@@ -57,10 +57,10 @@ class StudentProfessorTest
         s.Study();
         s.ShowAge();
 
-        Professor prof = new Professor();
-        prof.SetAge(38);
-        prof.Greet();
-        prof.ShowAge();
-        prof.Explain();
+        Professor f = new Professor();
+        f.SetAge(38);
+        f.Greet();
+        f.ShowAge();
+        f.Explain();
     }
 }
