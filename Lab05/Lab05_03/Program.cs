@@ -51,7 +51,6 @@ class TShirt : Clothing, IManClothes, IWomanClothes
 
     public void DressMan()
     {
-        Console.OutputEncoding = UTF8Encoding.UTF8; // на всякий випадок
         Console.WriteLine("Одягаємо чоловіка в футболку розміру - {0}, кольору - {1} за ціною - {2} грн.", size, color, price);
     }
 
