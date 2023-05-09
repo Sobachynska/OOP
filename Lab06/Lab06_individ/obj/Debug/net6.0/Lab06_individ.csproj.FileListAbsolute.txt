@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\bin\Debug\net6.0\Lab06_individ.exe
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\bin\Debug\net6.0\Lab06_individ.deps.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\bin\Debug\net6.0\Lab06_individ.runtimeconfig.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\bin\Debug\net6.0\Lab06_individ.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\bin\Debug\net6.0\Lab06_individ.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\refint\Lab06_individ.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\Lab06_individ.genruntimeconfig.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab06\Lab06_individ\obj\Debug\net6.0\ref\Lab06_individ.dll
