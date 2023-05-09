@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab07\\Lab07\\Lab07.csproj",
-      "projectName": "Lab07",
-      "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab07\\Lab07\\Lab07.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab07\\Lab07_1\\Lab07_1.csproj",
+      "projectName": "Lab07_1",
+      "projectPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab07\\Lab07_1\\Lab07_1.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab07\\Lab07\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Source\\Repos\\Sobachynska\\oop\\Lab07\\Lab07_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
