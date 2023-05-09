@@ -1,11 +1,10 @@
-﻿// Опис інтерфейсу IFigure
-interface IFigure
+﻿interface IFigure
 {
-    void PrintType();
-    void PrintArea(); 
-    double Length { get; } 
-    double Width { get; } 
-    void PrintDiagonal(); 
+    void PrintType(); // метод, що виводить на екран тип фігури
+    void PrintArea(); // метод, що виводить на екран площу фігури
+    double Length { get; } // властивість, що відповідає за перший лінійний розмір фігури 
+    double Width { get; } // властивість, що відповідає за другий лінійний розмір фігури
+    void PrintDiagonal(); // метод, що виводить на екран довжину діагоналі фігури
 }
 
 interface IColoredFigure : IFigure
@@ -13,7 +12,7 @@ interface IColoredFigure : IFigure
     string Color { get; }
     void PrintColor();
 }
-e
+
 class Rectangle : IFigure
 {
     public double Length { get; set; }
@@ -60,14 +59,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Створюємо екземпляри класів Rectangle та ColoredRectangle
-        Rectangle rect1 = new Rectangle(25, 13);
-        Rectangle rect2 = new Rectangle(12, 9);
-        Rectangle rect3 = new Rectangle(18, 10);
+        Rectangle rect1 = new Rectangle(15, 8);
+        Rectangle rect2 = new Rectangle(10, 6);
+        Rectangle rect3 = new Rectangle(16, 6);
 
-        ColoredRectangle colRect1 = new ColoredRectangle(20, 16, "black");
-        ColoredRectangle colRect2 = new ColoredRectangle(8, 5, "blue");
-        ColoredRectangle colRect3 = new ColoredRectangle(14, 7, "pink");
+        ColoredRectangle colRect1 = new ColoredRectangle(22, 9, "black");
+        ColoredRectangle colRect2 = new ColoredRectangle(9, 4, "blue");
+        ColoredRectangle colRect3 = new ColoredRectangle(10, 6, "pink");
 
         IFigure[] figures = new IFigure[] { rect1, rect2, rect3, colRect1, colRect2, colRect3 };
 
@@ -76,7 +74,7 @@ class Program
             if (figure is IColoredFigure)
             {
                 IColoredFigure colFigure = (IColoredFigure)figure;
-                Console.WriteLine();
+                Console.WriteLine("");
                 colFigure.PrintType();
                 colFigure.PrintArea();
                 colFigure.PrintDiagonal();
