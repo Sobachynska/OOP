@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\bin\Debug\net6.0\Lab05_02.exe
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\bin\Debug\net6.0\Lab05_02.deps.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\bin\Debug\net6.0\Lab05_02.runtimeconfig.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\bin\Debug\net6.0\Lab05_02.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\bin\Debug\net6.0\Lab05_02.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\refint\Lab05_02.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\Lab05_02.genruntimeconfig.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\Lab05\Lab05_02\obj\Debug\net6.0\ref\Lab05_02.dll
