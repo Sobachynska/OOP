@@ -3,16 +3,16 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-class Culture : IComparable<Culture>
+class DB : IComparable<DB>
 {
     public string Name { get; set; }
     public string Type { get; set; }
-    public int Area { get; set; }
-    public int Harvest { get; set; }
+    public int Selling { get; set; }
+    public int Marketpart { get; set; }
 
-    public int CompareTo(Culture other)
+    public int CompareTo(DB other)
     {
-        return this.Area.CompareTo(other.Area);
+        return this.Selling.CompareTo(other.Selling);
     }
 }
 
@@ -61,22 +61,22 @@ class Program
 {
     static void Main(string[] args)
     {
-        CollectionType<Culture> collection1 = new CollectionType<Culture>();
-        collection1.Add(new Culture { Name = "Кукурудза", Type = "З", Area = 13000, Harvest = 45 });
-        collection1.Add(new Culture { Name = "Пшениця", Type = "З", Area = 8000, Harvest = 17 });
+        CollectionType<DB> collection1 = new CollectionType<DB>();
+        collection1.Add(new DB { Name = "Oracle", Type = "1", Selling = 250000000, Marketpart = 31 });
+        collection1.Add(new DB { Name = "IBM", Type = "З", Selling = 240000000, Marketpart = 29 });
 
-        CollectionType<Culture> collection2 = new CollectionType<Culture>();
-        collection2.Add(new Culture { Name = "Рис", Type = "З", Area = 25650, Harvest = 24 });
+        CollectionType<DB> collection2 = new CollectionType<DB>();
+        collection2.Add(new DB { Name = "Microsoft", Type = "2", Selling = 100000000, Marketpart = 13 });
 
-        // Сортування колекції за площею посіву
+        
         collection1.Sort();
 
-        // LINQ-запит: знайти культури з врожайністю більше 20
-        var culturesWithHighHarvest = collection1.Where(c => c.Harvest > 20);
+        
+        var dbWithHighMarketpart = collection1.Where(c => c.Marketpart > 25);
 
-        foreach (var culture in culturesWithHighHarvest)
+        foreach (var db in dbWithHighMarketpart)
         {
-            Console.WriteLine($"{culture.Name}, Врожайність: {culture.Harvest}");
+            Console.WriteLine($"{db.Name}, Частина ринку: {db.Marketpart}");
         }
 
         Console.ReadLine();
