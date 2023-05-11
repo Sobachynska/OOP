@@ -104,7 +104,7 @@ class Program
             // Приклад виклику конструктора класу Вклад
             Deposit deposit = new Deposit();
             deposit.DepositorName = "Собачинська Анна";
-            deposit.Amount = 1000;
+            deposit.Amount = -1000; // негативне значення
 
             if (deposit.Amount < 0)
             {
