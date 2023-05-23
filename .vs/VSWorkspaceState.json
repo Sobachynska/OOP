@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Lab08\\Lab08_02",
-    "\\Lab09",
-    "\\Lab09\\Lab09_individ",
-    "\\Lab10",
-    "\\Lab10\\Lab10_01"
+    "\\Lab03\\Lab03_01",
+    "\\Lab03\\Lab03_02",
+    "\\Lab03\\Lab03_03",
+    "\\Lab04\\Lab04_01",
+    "\\Lab04\\Lab04_02",
+    "\\Lab05",
+    "\\Lab05\\Lab05_01",
+    "\\Lab05\\Lab05_02",
+    "\\Lab05\\Lab05_03"
   ],
-  "SelectedNode": "\\Lab10\\Lab10_01\\Lab10_01.csproj",
+  "SelectedNode": "\\Lab05\\Lab05_03\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
