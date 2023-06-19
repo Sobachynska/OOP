@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\bin\Debug\net6.0\ekz.exe
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\bin\Debug\net6.0\ekz.deps.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\bin\Debug\net6.0\ekz.runtimeconfig.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\bin\Debug\net6.0\ekz.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\bin\Debug\net6.0\ekz.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\refint\ekz.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ekz.genruntimeconfig.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\ekz\obj\Debug\net6.0\ref\ekz.dll

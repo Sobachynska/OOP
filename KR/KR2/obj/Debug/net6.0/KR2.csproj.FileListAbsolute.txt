@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\bin\Debug\net6.0\KR2.exe
+C:\Users\Пользователь\source\repos\Sobachynska\oop\KR\KR2\bin\Debug\net6.0\KR2.deps.json
+C:\Users\Пользователь\source\repos\Sobachynska\oop\KR\KR2\bin\Debug\net6.0\KR2.runtimeconfig.json
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\bin\Debug\net6.0\KR2.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\bin\Debug\net6.0\KR2.pdb
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.AssemblyInfo.cs
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\refint\KR2.dll
+C:\Users\Пользователь\Source\Repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.pdb
+C:\Users\Пользователь\source\repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\KR2.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\Sobachynska\oop\KR\KR2\obj\Debug\net6.0\ref\KR2.dll

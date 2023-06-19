@@ -63,7 +63,8 @@ public class Program
         Console.WriteLine();
 
         CharSet intersection = set1 * set2;
-        Console.WriteLine("Intersection: " + string.Join(", ", intersection));
+        Console.WriteLine("Intersection: " + string.Join(", ", intersection)); 
+        /*перетин*/
         Console.WriteLine();
 
         Console.WriteLine("Set 1 is a subset of Set 2: " + (set1 < set2));
